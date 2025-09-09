@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://www.linkedin.com/in/hugo-henrique-rodrigues-b55035191/" alt="Linkedin">
 
 <!--
 **HugoRodrigues123/HugoRodrigues123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
